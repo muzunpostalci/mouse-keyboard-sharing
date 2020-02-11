@@ -23,7 +23,7 @@ decorator==4.4.1
 defer==1.0.6
 defusedxml==0.6.0
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.1
+Django==3.0.3
 docx2txt==0.6
 EasyProcess==0.2.8
 EbookLib==0.15
