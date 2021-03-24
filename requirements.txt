@@ -142,7 +142,7 @@ requests==2.20.0
 requests-oauthlib==1.2.0
 requests-unixsocket==0.1.5
 rivalcfg==2.6.0
-rsa==4.0
+rsa==4.1
 scikit-learn==0.20.3
 scipy==1.2.1
 scour==0.36
