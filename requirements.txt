@@ -55,7 +55,7 @@ json5==0.8.5
 jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
-jupyterlab==1.2.4
+jupyterlab==1.2.21
 jupyterlab-server==1.0.6
 keyboard==0.13.4
 keyring==10.6.0
