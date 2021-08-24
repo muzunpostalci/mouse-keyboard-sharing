@@ -23,7 +23,6 @@ decorator==4.4.1
 defer==1.0.6
 defusedxml==0.6.0
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.7
 docx2txt==0.6
 EasyProcess==0.2.8
 EbookLib==0.15
@@ -50,13 +49,10 @@ ipywidgets==7.3.0
 isort==4.3.21
 jdcal==1.4.1
 jedi==0.15.1
-Jinja2==2.10.1
 json5==0.8.5
 jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
-jupyterlab==1.2.4
-jupyterlab-server==1.0.6
 keyboard==0.13.4
 keyring==10.6.0
 keyrings.alt==3.0
@@ -67,7 +63,6 @@ lazr.restfulclient==0.13.5
 lazr.uri==1.0.3
 lazy-object-proxy==1.4.2
 louis==3.5.0
-lxml==4.6.2
 macaroonbakery==1.1.3
 Mako==1.0.7
 MarkupSafe==1.0
@@ -79,7 +74,6 @@ MouseInfo==0.1.2
 nbconvert==5.6.1
 nbformat==4.4.0
 netifaces==0.10.4
-notebook==6.1.5
 numpy==1.14.5
 oauth==1.0.1
 oauth2client==4.1.3
@@ -93,7 +87,6 @@ parso==0.5.2
 pdf2image==1.9.0
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==7.1.0
 prometheus-client==0.3.0
 prompt-toolkit==3.0.2
 protobuf==3.0.0
@@ -103,11 +96,9 @@ pyasn1-modules==0.2.6
 PyAutoGUI==0.9.48
 pycairo==1.16.2
 pycparser==2.19
-pycrypto==2.6.1
 pycups==1.9.73
 pygame==1.9.6
 PyGetWindow==0.0.8
-Pygments==2.5.2
 pygobject==3.26.1
 pylint==2.4.1
 pymacaroons==0.13.0
@@ -135,14 +126,12 @@ pytz==2019.3
 pyudev==0.21.0
 PyUserInput==0.1.11
 pyxdg==0.26
-PyYAML==5.1
 pyzmq==18.1.1
 reportlab==3.4.0
 requests==2.20.0
 requests-oauthlib==1.2.0
 requests-unixsocket==0.1.5
 rivalcfg==2.6.0
-rsa==4.0
 scikit-learn==0.20.3
 scipy==1.2.1
 scour==0.36
@@ -171,7 +160,6 @@ ufw==0.36
 unattended-upgrades==0.1
 unix==1.0
 uritemplate==3.0.0
-urllib3==1.24.2
 usb-creator==0.3.3
 wadllib==1.3.2
 wcwidth==0.1.7
