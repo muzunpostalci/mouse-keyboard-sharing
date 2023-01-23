@@ -146,7 +146,7 @@ six==1.13.0
 sklearn==0.0
 solrpy==0.9.9
 SpeechRecognition==3.6.3
-spotipy==2.4.4
+spotipy==2.22.1
 sqlparse==0.3.0
 system-service==0.3
 systemd-python==234
